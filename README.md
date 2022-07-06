@@ -1,2 +1,2 @@
 # RDTFE
-Random Desicion Tree Forest Ensemble
+Random Decision Tree Forest Ensemble
